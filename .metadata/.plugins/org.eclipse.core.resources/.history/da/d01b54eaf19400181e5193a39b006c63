@@ -1,0 +1,30 @@
+package capsule;
+
+public class Automovil {
+
+	
+	private int precio;
+	private String marca;
+	
+	//constructor
+	public Automovil(){
+		
+		System.out.println("Se ha creado el objeto correctamente");
+		
+	}
+	//metodos getter y setter practica
+	public int getPrecio(){
+		
+		return this.precio;
+	}
+	public String getMarca(){
+		return this.marca;
+	}
+	//metodos set
+	public void setPrecio(){
+		
+	}
+	public void setMarca(){
+		
+	}
+}

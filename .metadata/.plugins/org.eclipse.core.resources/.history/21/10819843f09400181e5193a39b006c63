@@ -1,0 +1,18 @@
+package capsule;
+
+public class Automovil {
+
+	
+	int precio;
+	String marca;
+	
+	public Automovil(){
+		
+		
+		
+		
+		
+	}
+	
+	
+}

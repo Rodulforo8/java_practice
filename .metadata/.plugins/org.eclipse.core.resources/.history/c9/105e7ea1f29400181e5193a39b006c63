@@ -1,0 +1,16 @@
+package capsule;
+
+public class Main {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		
+		Automovil auto = new Automovil();
+		
+		auto.setMarca("Ferrari");
+		System.out.println(auto.getMarca());
+		System.out.println(auto.getPrecio());
+	}
+
+}
