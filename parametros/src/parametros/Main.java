@@ -1,0 +1,15 @@
+package parametros;
+
+public class Main {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		persona yo = new persona("fernando",20);
+		
+		
+		
+		
+	}
+
+}

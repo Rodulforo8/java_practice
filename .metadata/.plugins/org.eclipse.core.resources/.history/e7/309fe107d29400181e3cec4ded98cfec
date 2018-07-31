@@ -1,0 +1,26 @@
+package javatests;
+
+public class functions {
+
+	public static void main(String[] args) {
+	// TODO Auto-generated method stub
+		
+
+		
+		}
+	
+
+		public void hola(){
+			
+			//instrucctiones
+			System.out.println("hola");
+			
+			
+			
+		
+		
+		
+		
+	}
+
+}

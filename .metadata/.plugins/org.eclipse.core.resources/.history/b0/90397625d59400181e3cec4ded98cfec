@@ -1,0 +1,10 @@
+package parametros;
+
+public class persona {
+	
+	public persona(){
+		
+		
+	}
+	
+}
